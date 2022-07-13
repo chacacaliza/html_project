@@ -1,7 +1,5 @@
 # Tugas Writing Front End Web Development
-Nama : <br />
-Ulfa Zakiatul Mardhiah - 201810370311058 <br/>
-Asal : Sumbawa Besar <br />
+Nama : Ulfa Zakiatul Mardhiah  <br/>
 
 ## Minggu 1 <br />
 a. Day 1 : Unix Command Line <br />
