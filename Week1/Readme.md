@@ -4,7 +4,7 @@
 - Contoh terminal basic atau basic shell pada windows adalah powershell dan commandpromp (CMD)
 - Command Line merupakan sebutan untuk shell yang berbasis teks 
 - Command Line interface merupakan tampilan dari sebuah terminal yang digunakan untuk menjalankan suatu program, mengelola file, dan berinteraksi dengan komputer.
-![alt text](commandline.jpg)
+![command line interface](commandline.jpg)
 ### a. Navigation files dan directory
 - pwd digunakan untuk melihat posisi directory terkini  
 - ls digunakan untuk melihat isi files suatu directory 
@@ -33,7 +33,7 @@ mv [namafile] [namafilebaru]
   git config global user.name "chaca" <br />
   git config global user.email chaca.caliza@gmail.com 
 - Melihat hasil konfigurasi dengan git config --list 
-![alt text](configlist.jpg)
+![config list](configlist.jpg)
 - Membuat Repository <br />
   git init (dilakukan didalam folder yang dibuat) 
 - git Status digunakan untuk melihat apakah terjadi perubahan atau tidak pada Git 
@@ -69,7 +69,7 @@ Closing Tag : `` </p> ``
 ![alt text](html2.jpg)
 
 - Contoh code dalam pembuatan tabel
-![alt text](table.jpg)
+![Code Pembuatan Tabel](table.jpg)
 
 ## Day 4 : CSS
 - CSS atau *Cascading Style Sheets* yang digunakan untuk mendesain halaman website dengan mengubah warna, menggunakan font custom, editing text format, mengatur tata letak.
